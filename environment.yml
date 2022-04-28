@@ -1,0 +1,22 @@
+name: escience2021
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - xarray
+  - cartopy
+  - intake
+  - intake-esm
+  - s3fs 
+  - gcsfs 
+  - nc-time-axis 
+  - xesmf
+  - pandas
+  - cftime
+  - scikit-learn
+  - ipython
+  - ipykernel
+  - xskillscore
+  - cmaps
+  - seaborn
